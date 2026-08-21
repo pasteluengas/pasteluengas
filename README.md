@@ -1,9 +1,3 @@
-```
-
-MUSICO Y PROGRAMER Y MUSIC Y PROIGRAMER Y MUYSICO Y PROGRAMER Y PMSUIC YT PROGRAMCIW Y NSUCSO Y PROGREAOMK Y MMNSYUDI Y POROIGIOR Y NSUASYA Y PROFUI Y MSUYSISNJ Y PTIOGEM, Y MUSIRJMSD
-
-```
-
 WEBSITE: [http://pasteluengas.neocities.org](http://pasteluengas.neocities.org)
 
 Programming languages:
@@ -12,4 +6,4 @@ Programming languages:
 3. C
 4. Dart, Flutter
 5. PHP
-6. 
+
