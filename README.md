@@ -1,3 +1,6 @@
+I hardly can define myself as a "programmer" or as a "musician" but i do write code and i do write music
+
+MY MUSIC: [Dulces Analógicos](https://luengas.bandcamp.com/album/dulces-anal-gicos) | [paste](https://soundcloud.com/pasteluengas))
 WEBSITE: [http://pasteluengas.neocities.org](http://pasteluengas.neocities.org)
 
 Programming languages:
