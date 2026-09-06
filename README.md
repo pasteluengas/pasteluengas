@@ -1,5 +1,5 @@
 ```text
-I hardly can describe myself as a "programmer" or as a "musician" but i do write code and i do write music
+I hardly describe myself as a "programmer" or as a "musician" but i do write code and i do write music
 Lately I've been thinking
 
 MY MUSIC:
