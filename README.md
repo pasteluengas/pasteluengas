@@ -2,7 +2,7 @@
 I hardly describe myself as a "programmer" or as a "musician" but i do write code and i do write music
 Lately I've been thinking
 
-MY MUSIC:
+MUSIC:
   Dulces Analógicos: https://luengas.bandcamp.com/album/dulces-anal-gicos
   paste: https://soundcloud.com/pasteluengas
 
@@ -14,4 +14,8 @@ Programming languages:
   3. C
   4. Dart, Flutter
   5. PHP
+
+Currently lowk obsessed with analog and digital audio recording mediums.
+
+cassette 4 track recorder please
 ```
